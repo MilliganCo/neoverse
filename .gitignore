@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+# Node / frontend
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+# IDE
+.idea/
+# OS
+Thumbs.db
+desktop.ini
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.crt
+id_rsa
+id_rsa.pub
+# Data and artifacts
+runs/
+tmp/
+tmp_pytorch/
+*.sqlite
+*.db
+*.csv
+*.xlsx
+*.xls
