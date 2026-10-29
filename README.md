@@ -1,5 +1,7 @@
 # NeoVerse
 
+> Experimental React and Three.js scene editor and mock collection UI. See [PUBLICATION.md](PUBLICATION.md) for verification and limits.
+
 ## Описание
 
 Крупный frontend-прототип на React, Vite и Three.js для приложения, в котором пользователь получает цифровые 3D-объекты, собирает из них собственные пространства, публикует сцены и взаимодействует с маркетом и социальной частью.
